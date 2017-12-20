@@ -1,5 +1,8 @@
 # vue-play
 
+> 似乎配置成功了 
+* TODO import '@/src' vscode还是不能读到 
+
 > A Vue.js project
 
 ## Build Setup

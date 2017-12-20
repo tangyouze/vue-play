@@ -1,4 +1,11 @@
-function fff () {
+function goo () {
   return 124
 }
-export default fff
+
+function forward () {
+  return 'forward'
+}
+export default {
+  goo,
+  forward
+}
